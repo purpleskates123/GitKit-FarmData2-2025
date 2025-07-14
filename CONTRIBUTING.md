@@ -60,7 +60,7 @@ Update to any of the FarmData2 documentation are welcome.  If you find typos, un
 
 #### Bug Fix / Feature Implementation ####
 
-Tickets in the [Issue Tracker] that are tagged _bug_ or _enhancement_ describe issues be fixed or new features to be added to FarmData2. The tag _good first issue_ appears on the most approachable tickets.  If you find an issue to work on use the [workflow](#workflow) described below to create a pull request for your suggested bug fix or feature implementation. Information about the languages and technologies that are used in FarmdData2 and pointers to resources for learning more about them can be found in the [Technology On-boarding](#technology-on-boarding) section below.
+Tickets in the [Issue Tracker] that are tagged _bug_ or _enhancement_ describe issues be fixed or new features to be added to FarmData2. The tag _good first issue_ appears on the most approachable tickets.  If you find an issue to work on use the [workflow](#workflow) described below to create a pull request for your suggested bug fix or feature implementation. Information about the languages and technologies that are used in FarmData2 and pointers to resources for learning more about them can be found in the [Technology On-boarding](#technology-on-boarding) section below.
 
 #### Other Thoughts ####
 
@@ -82,7 +82,7 @@ As a reference, the basic steps for working with GitHub Flow are as follows:
   * Fork the _upstream_ repository to your GitHub (the _origin_).
   * [Clone] the _origin_ repository to your local machine.
   * Set the  _upstream_ remote for your local repository to point to the _upstream_ repository.
-  * Create a _feature branch_ from the _main_ branch your local machine.
+  * Create a _feature branch_ from the _main_ branch on your local machine.
   * Make the edits to the documentation or the code in your _feature branch_.
   * Commit your edits.
     * If the contribution reflects the work of multiple people, ensure that everyone receives attribution by [Creating a commit with multiple authors].
